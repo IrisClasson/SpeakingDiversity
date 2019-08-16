@@ -1,2 +1,2 @@
-# SpeakingDiversity
-Online resources for finding speakers from underrepresented groups 
+# Speaking Diversity
+Online resources for finding speakers from underrepresented groups
