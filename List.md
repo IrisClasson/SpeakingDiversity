@@ -1,4 +1,4 @@
-# Diversity group: Women 
+# Diversity group: Underrepresented genders
 
 ### Speakerinnen
 
